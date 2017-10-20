@@ -1,0 +1,61 @@
+body{
+	font-family: 'Open Sans', sans-serif;
+}
+
+h3{
+   font-family: 'Dosis', cursive;	
+}
+
+div{
+ background-color:#FAF1F1; 
+ color:#333; 	
+ width: 200px;
+ height: 310px; 
+ float: left;
+ text-align: center;
+ padding:15px;
+ }
+
+div:hover{
+  background: #333; 
+  font-size:15px;
+  color: #fff; 
+  width: 200px;
+ height: 315px;
+ border-radius: 40px; 
+ padding: 15px;
+ }
+
+ div:hover span{           
+ color:skyblue; 	
+ font-size:60px;
+}
+
+ p{
+ font-size: 12px;
+ }
+
+.icon-paperplane{
+ color:#333;
+ font-size: 45px;
+}
+
+.icon-diamond{
+ color:#333;
+ font-size: 45px; 
+}
+
+.icon-heart{
+ color:#333;
+ font-size: 45px;	
+}
+
+.icon-cup{
+  color:#333;
+ font-size: 45px;
+}
+
+.icon-food{
+ color:#333;
+ font-size: 45px; 
+}
